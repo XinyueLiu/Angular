@@ -1,0 +1,63 @@
+
+            .nav, .pagination, .carousel, .panel-title a { cursor: pointer; }
+            #search{
+                height: 10%;
+            }
+            .nav > ul > li{
+            padding-top: 1%;
+            padding-bottom: 1%;
+            text-align: center;
+        }
+
+            .nav > ul > li:hover{
+            background-color: #3c5b97;
+            color: white;
+            cursor: pointer;
+        }
+
+            #user-nav {
+		  background-color: #3c5b97;
+      	  color: white;
+      	  cursor: pointer;
+	   }
+            
+            body {
+               overflow-x: hidden; 
+       }
+            
+           .table-bordered{
+                border-radius: 6px;
+       }
+            
+            @media (min-width: 768px) {
+
+            #page-content-wrapper {
+                padding: 10px;
+                position: relative;
+                height: 100%;
+            }   
+                
+      }
+            
+            .align-top{
+                background: #f7f7f7;
+                
+            }
+            
+            .align-top a:link{
+                color: black;
+                
+            }
+            
+            .align-top a:hover{
+                color: #3c5b97;   
+            }
+            
+            #myProgress{
+            width: 60%;
+            position: relative;
+            left: 20%;
+            margin-top: 20%;
+                
+        }
+        
