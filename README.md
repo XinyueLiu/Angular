@@ -1,2 +1,7 @@
-# Angular-2
-Angular 2 Projects
+# Angular
+
+Angular Demo Projects
+
+Thanks for reviewing.
+
+- XinYue Liu
