@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('simplepeer App', () => {
+describe('video-chat App', () => {
   let page: AppPage;
 
   beforeEach(() => {
