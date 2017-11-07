@@ -1,6 +1,7 @@
 # VideoChat
 
 This is a Angular 2 project, which implements a simple video streaming functionality using the simple-peer library.
+
 Demo video: https://www.youtube.com/watch?v=QbPeVvm8Enw
 
 # Run the app
