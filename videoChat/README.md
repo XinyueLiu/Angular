@@ -2,6 +2,9 @@
 
 This is a Angular 2 project, which implements a simple video streaming functionality using the simple-peer library.
 
+demo video: https://youtu.be/nFZg_l0gAh0
+
+
 # Run the app
 
 1. Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files. Please allow the chrome browser to access your camera and microphone.
