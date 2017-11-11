@@ -2,8 +2,7 @@
 
 This is a Angular 2 project, which implements a simple video streaming functionality using the simple-peer library.
 
-demo video: https://youtu.be/nFZg_l0gAh0
-
+Demo video: https://www.youtube.com/watch?v=QbPeVvm8Enw
 
 # Run the app
 
