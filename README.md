@@ -1,6 +1,5 @@
-# Angular
+# Angular & Angular 2
 
-Angular Demo Projects<br />
 
 Facebook Search Website:
 - Implemented AngularJS and Bootstrap at front-end to present a responsive webpage asynchronously
