@@ -14,6 +14,3 @@ http://www-scf.usc.edu/~liuxinyu/e3ieh43@/change0405.html
 - a simple video streaming functionality in a Angular 2 app using the simple-peer library.<br /><br />
 ![alt text](http://www-scf.usc.edu/~liuxinyu/videochatss/s.jpg)
 
-Thanks for reviewing.
-
-- XinYue Liu
